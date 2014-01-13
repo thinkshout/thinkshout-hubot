@@ -6,5 +6,6 @@
 	"github-issues.coffee", 
 	"status.coffee", 
 	"weather.coffee",
-	"xkcd.coffee"
+	"xkcd.coffee",
+	"google.coffee"
 ]
