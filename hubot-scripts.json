@@ -5,6 +5,6 @@
 	"github-issue-link.coffee", 
 	"github-issues.coffee", 
 	"status.coffee", 
-	"weather.coffee"
+	"weather.coffee",
 	"xkcd.coffee"
 ]
