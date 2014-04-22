@@ -1,4 +1,5 @@
 [
+	"redis-brain.coffee",
 	"shipit.coffee",
 	"drupalorg.coffee",
 	"github-activity.coffee",
