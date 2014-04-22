@@ -1,11 +1,12 @@
 [
-	"shipit.coffee", 
-	"drupalorg.coffee", 
-	"github-activity.coffee", 
-	"github-issue-link.coffee", 
-	"github-issues.coffee", 
-	"status.coffee", 
+	"shipit.coffee",
+	"drupalorg.coffee",
+	"github-activity.coffee",
+	"github-issue-link.coffee",
+	"github-issues.coffee",
+	"status.coffee",
 	"weather.coffee",
 	"xkcd.coffee",
-	"google.coffee"
+	"google.coffee",
+	"modulepuppy.coffee"
 ]
