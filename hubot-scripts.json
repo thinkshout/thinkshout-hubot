@@ -9,5 +9,11 @@
 	"weather.coffee",
 	"xkcd.coffee",
 	"google.coffee",
-	"modulepuppy.coffee"
+	"modulepuppy.coffee",
+	"ambush.coffee",
+	"eight-ball.coffee",
+	"scotch.coffee",
+	"points.coffee",
+	"ascii.coffee",
+	""
 ]
